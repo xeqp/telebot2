@@ -1,0 +1,6 @@
+.idea
+.env
+TZ1_TZ2/__pycache__/
+TZ1_TZ2/handlers/__pycache__/
+TZ1_TZ2/services/__pycache__/
+TZ1_TZ2/database/__pycache__/
